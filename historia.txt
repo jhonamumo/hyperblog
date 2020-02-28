@@ -1,0 +1,2 @@
+Hola esta es una Historia de Ejemplo para el curso de Git en Platzi
+Por el momento no contien nada de codigo, es solo texto.
